@@ -2,11 +2,9 @@
 
 Este é um **website** feito com o propósito de servir como portfólio profissional.
 
-in [Section `Protótipo`](#kalilmacedo.net)
-
 ## Protótipo </>
 
-Veja o protótipo online aqui: kalilmacedo.net
+Veja o protótipo online aqui: (#kalilmacedo.net)
 
 ## Sobre mim 👨‍💻
 
