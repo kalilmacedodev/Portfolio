@@ -1,0 +1,9 @@
+{
+    "require": {
+
+        "sendinblue/api-v3-sdk": "8.x.x",
+        "php": "^7.3||^8.0"
+
+    }
+
+}
