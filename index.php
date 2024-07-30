@@ -332,6 +332,12 @@ if (isset($_POST['name']) && isset($_POST['contact']) && isset($_POST['content']
             <section class="work section" id="work">
                 <h2 class="section-title">&lt;experiencia /&gt;</h2>
 
+                <div class="work__text_container bd-grid">
+                    <h2 class="work__subtitle">Experiência Profissional</h2>
+                    <p class="work__text">Esta sessão é dedicada para um resumo de toda a minha experiência adquirida em anos de trabalho,
+                        essas experiências são organizadas em páginas separadas, <strong>clique</strong> em uma para mais detalhes!</p>
+                </div>
+
                 <div class="work__container bd-grid">
                     <a href="prefeitura.html" class="work__img">
                         <img style="size:110%" src="assets/img/prefeitura.jpg" alt="">
