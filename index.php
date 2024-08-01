@@ -92,7 +92,7 @@ if (isset($_POST['name']) && isset($_POST['contact']) && isset($_POST['content']
 
                 <div class="home__social">
                     <a target=”_blank” href="https://www.linkedin.com/in/kalil-macedo-669788205/" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
-                    <a target=”_blank” href="https://github.com/kalilmacedo" class="home__social-icon"><i class='bx bxl-github' ></i></a>
+                    <a target=”_blank” href="https://github.com/kalilmacedodev" class="home__social-icon"><i class='bx bxl-github' ></i></a>
                 </div>
 
                 <div class="home__img">
@@ -394,7 +394,7 @@ if (isset($_POST['name']) && isset($_POST['contact']) && isset($_POST['content']
             <p class="footer__title">Kalil Macedo</p>
             <div class="footer__social">
                 <a class="footer__icon" target=”_blank” href="https://www.linkedin.com/in/kalil-macedo-669788205/" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
-                <a class="footer__icon" target=”_blank” href="https://github.com/kalilmacedo" class="home__social-icon"><i class='bx bxl-github' ></i></a>
+                <a class="footer__icon" target=”_blank” href="https://github.com/kalilmacedodev" class="home__social-icon"><i class='bx bxl-github' ></i></a>
             </div>
         </footer>
 
